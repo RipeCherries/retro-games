@@ -8,8 +8,8 @@ export const games = [
       'выпущенное для портативной консоли Game Boy Advance в 2001 году. Игра сочетает в себе ' +
       'элементы оригинальных игр Super Mario Bros. 2 (также известной как Super Mario USA в Японии) ' +
       'и обновленных визуальных и звуковых характеристик.',
-    image: 'images/game/gba/super-mario-advance.png',
-    gameUrl: 'roms/gba/super-mario-advance.zip',
+    image: '/images/game/gba/super-mario-advance.png',
+    gameUrl: '/roms/gba/super-mario-advance.zip',
     core: 'gba',
     categoryId: 1
   },
@@ -21,8 +21,8 @@ export const games = [
       'DuckTales — культовая игра для NES, выпущенная в 1989 году компанией Capcom. ' +
       'Созданная по мотивам популярного одноимённого мультсериала, она сочетает в себе динамичный ' +
       'платформенный геймплей, уникальную механику и очаровательный дух приключений.',
-    image: 'images/game/nes/duck-tales.png',
-    gameUrl: 'roms/nes/duck-tales.zip',
+    image: '/images/game/nes/duck-tales.png',
+    gameUrl: '/roms/nes/duck-tales.zip',
     core: 'nes',
     categoryId: 2
   },
@@ -35,8 +35,8 @@ export const games = [
       'в 2002 году. Разработанная студией WayForward, она стала одной из последних игр для этой ' +
       'платформы и завоевала культовый статус благодаря инновационному геймплею, яркой графике и ' +
       'запоминающимся персонажам.',
-    image: 'images/game/gb/shantae.png',
-    gameUrl: 'roms/gb/shantae.zip',
+    image: '/images/game/gb/shantae.png',
+    gameUrl: '/roms/gb/shantae.zip',
     core: 'gb',
     categoryId: 3
   },
@@ -49,8 +49,8 @@ export const games = [
       'приключенческая платформенная игра, выпущенная в 1993 году компанией Capcom. ' +
       'Она основана на популярном диснеевском мультфильме Aladdin и отличается уникальным стилем, ' +
       'проработанным геймплеем и атмосферным саундтреком.',
-    image: 'images/game/snes/aladdin.png',
-    gameUrl: 'roms/snes/aladdin.zip',
+    image: '/images/game/snes/aladdin.png',
+    gameUrl: '/roms/snes/aladdin.zip',
     core: 'snes',
     categoryId: 4
   },
@@ -63,8 +63,8 @@ export const games = [
       'Игра объединила персонажей из разных игровых франшиз компании, предложив уникальный подход ' +
       'к жанру: вместо традиционных полос здоровья и комбо здесь используется система выбивания ' +
       'соперников с арены.',
-    image: 'images/game/n64/super-smash-bros.png',
-    gameUrl: 'roms/n64/super-smash-bros.7z',
+    image: '/images/game/n64/super-smash-bros.png',
+    gameUrl: '/roms/n64/super-smash-bros.7z',
     core: 'n64',
     categoryId: 5
   },
@@ -77,8 +77,8 @@ export const games = [
       'Эта версия игры, разработанная студией Ancient, является адаптацией оригинальной игры ' +
       'Sonic the Hedgehog для более доступной 8-битной платформы. Несмотря на технические ограничения, ' +
       'она сохранила дух оригинала и предложила уникальный взгляд на дебют знаменитого синего ежа.',
-    image: 'images/game/segaMS/sonic-the-hedgehog.png',
-    gameUrl: 'roms/segaMS/sonic-the-hedgehog.7z',
+    image: '/images/game/segaMS/sonic-the-hedgehog.png',
+    gameUrl: '/roms/segaMS/sonic-the-hedgehog.7z',
     core: 'segaMS',
     categoryId: 6
   },
@@ -91,8 +91,8 @@ export const games = [
       'который выделяется своим оригинальным дизайном, вдохновлённым комиксами. ' +
       'Игра разработана компанией Sega Technical Institute и считается одной из самых стильных и ' +
       'инновационных игр для своей эпохи.',
-    image: 'images/game/segaMS/comix-zone.png',
-    gameUrl: 'roms/segaMS/comix-zone.zip',
+    image: '/images/game/segaMD/comix-zone.png',
+    gameUrl: '/roms/segaMD/comix-zone.zip',
     core: 'segaMD',
     categoryId: 7
   },
@@ -105,8 +105,8 @@ export const games = [
       'Версия для Game Gear, разработанная компанией Rare и изданная Tradewest, вышла в 1993 году. ' +
       'Она сохраняет фирменный хардкорный геймплей оригинала, добавляя свои особенности ' +
       'благодаря особенностям платформы.',
-    image: 'images/game/segaGG/battletoads.png',
-    gameUrl: 'roms/segaGG/battletoads.7z',
+    image: '/images/game/segaGG/battletoads.png',
+    gameUrl: '/roms/segaGG/battletoads.7z',
     core: 'segaGG',
     categoryId: 8
   }
